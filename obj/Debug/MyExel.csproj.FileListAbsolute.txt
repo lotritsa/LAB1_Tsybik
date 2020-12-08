@@ -1,0 +1,13 @@
+C:\Users\eva\source\repos\MyExel\bin\Debug\MyExel.exe.config
+C:\Users\eva\source\repos\MyExel\bin\Debug\MyExel.exe
+C:\Users\eva\source\repos\MyExel\bin\Debug\MyExel.pdb
+C:\Users\eva\source\repos\MyExel\obj\Debug\MyExel.csprojAssemblyReference.cache
+C:\Users\eva\source\repos\MyExel\obj\Debug\MyExel.Form1.resources
+C:\Users\eva\source\repos\MyExel\obj\Debug\MyExel.Properties.Resources.resources
+C:\Users\eva\source\repos\MyExel\obj\Debug\MyExel.csproj.GenerateResource.cache
+C:\Users\eva\source\repos\MyExel\obj\Debug\MyExel.csproj.CoreCompileInputs.cache
+C:\Users\eva\source\repos\MyExel\obj\Debug\MyExel.exe
+C:\Users\eva\source\repos\MyExel\obj\Debug\MyExel.pdb
+C:\Users\eva\source\repos\MyExel\obj\Debug\MyExel.Form2.resources
+C:\Users\eva\source\repos\MyExel\obj\Debug\MyExel.info.resources
+C:\Users\eva\source\repos\MyExel\obj\Debug\MyExel.Form4.resources
